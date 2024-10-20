@@ -14,6 +14,20 @@ public class printerApp {
        number2=7;
      // System.out.println(number1 );
        System.out.println("The value of number1 is : "+number1);
+       System.out.println("The value of number2 is : "+number2);
+       int multiplication;
+       multiplication=number1*number2;
+       System.out.println(number1+" * "+number2+" = "+multiplication);
+       int addition;
+       addition=number1+number2;
+       System.out.println(number1+" + "+number2+" = "+addition);
+       int substraction;
+       substraction=number1-number2;
+       System.out.println(number1+" - "+number2+" = "+substraction);
+       double division;
+       division=number1/number2;
+       System.out.println(number1+" / "+number2+" = "+division);
+       
 
 
     }
