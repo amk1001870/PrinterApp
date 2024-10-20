@@ -7,10 +7,13 @@ public class printerApp {
         System.out.println("Printer App");
         String creator;
         creator="pravesh bahakari";
-        System.out.println("This app is made by: "+creator);
+        System.out.println("This app is made by: " +creator);
         int number1;
-        int numbber2;
-        
+        int number2;
+       number1=8;
+       number2=7;
+     // System.out.println(number1 );
+       System.out.println("The value of number1 is : "+number1);
 
 
     }
